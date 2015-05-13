@@ -9,6 +9,7 @@ while counter < 101
 		else
 			puts counter
 		end
+		counter +=1
 	end
-end
+
 		
